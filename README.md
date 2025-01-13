@@ -4,7 +4,7 @@ This Phonebook application allows the user to add, remove, view and search for c
 It is possible to add a contact by providing a name, a phone number, and optionally an email and an address. A contact can be removed by providing an existing name in the phonebook.
 The user can search for a specific contact, or view all contacts present in the phonebook, displaying them in alphabetical order.
 
-The application is implemented in Python with a basic Graphical User Interface (GUI) using the `tkinter` library which is included in most Python installations.
+The application is implemented in Python with a basic Graphical User Interface (GUI) using the `ipywidgets` library to display the GUI in Jupyter Notebook.
 
 The code is presented using Jupyter Notebook and is split into different sections with the core application code, example use cases, the GUI and the unit tests, with each being runnable directly from the notebook.
 
